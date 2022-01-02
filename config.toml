@@ -1,0 +1,58 @@
+baseURL = "https://www.example.com"
+languageCode = "en-us"
+title = "tate wilhelm"
+
+copyright = "Copyright © 2021, Tate Wilhelm; all rights reserved."
+theme = "npq-hugo"
+pygmentsUseClasses=true
+
+[params]
+  author = "tate wilhelm"
+  description = "i do stuff"
+  keywords = "programmer, engineer, tinkerer"
+  useAvatar = true
+  microBlogSection = "posts"
+  displayMicroBlog = true
+  displayRecent = true
+  recentMax = 3
+  mail = "t8wilhelm@gmail.com"
+  phone = "+1-806-217-0186"
+  formspreeID = "mnqwnzyb"
+
+#[[menu.main]]
+#name = "contact"
+#pre = "<i class=\"far fa-envelope\"></i>"
+#url = "/contact"
+#weight = -1
+
+[menu]
+  [[menu.main]]
+    name = "home"
+    pre = "<i class=\"fas fa-home fa-sm\"></i>"
+    url = "/"
+    weight = -9
+  [[menu.main]]
+    name = "posts"
+    pre = "<i class=\"fas fa-keyboard fa-ms\"></i>"
+    url = "/posts/"
+    weight = -8
+  [[menu.main]]
+    name = "tags"
+    pre = "<i class=\"fas fa-tags fa-ms\"></i>"
+    url = "/tags"
+    weight = -7
+  [[menu.main]]
+    name = "github"
+    pre = "<i class=\"fab fa-github fa-ms\"></i>"
+    url = "https://github.com/yourgithubusername23434"
+    weight = -6
+  [[menu.main]]
+    name = "archive"
+    pre = "<i class=\"fas fa-archive fa-ms\"></i>"
+    url = "/index.xml"
+    weight = -4
+  [[menu.main]]
+    name = "contact"
+    pre = "<i class=\"far fa-envelope\"></i>"
+    url = "/contact"
+    weight = -1
