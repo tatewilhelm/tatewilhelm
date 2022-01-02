@@ -1,4 +1,4 @@
-baseURL = "https://www.example.com"
+baseURL = "https://www.tatewilhelm.me"
 languageCode = "en-us"
 title = "tate wilhelm"
 
@@ -12,7 +12,7 @@ pygmentsUseClasses=true
   keywords = "programmer, engineer, tinkerer"
   useAvatar = true
   microBlogSection = "posts"
-  displayMicroBlog = true
+  displayMicroBlog = false
   displayRecent = true
   recentMax = 3
   mail = "t8wilhelm@gmail.com"
