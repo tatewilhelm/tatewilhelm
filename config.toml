@@ -49,7 +49,7 @@ pygmentsUseClasses=true
   [[menu.main]]
     name = "archive"
     pre = "<i class=\"fas fa-archive fa-ms\"></i>"
-    url = "/index.xml"
+    url = "/archive"
     weight = -4
   [[menu.main]]
     name = "contact"
