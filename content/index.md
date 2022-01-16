@@ -6,8 +6,7 @@ my name's tate. i've programmed since i was 11, and i built a robot that flips p
 
 this is my site. look around, i guess.
 
-
-{{< figure src="/media/spf13.jpg" title="Steve Francia" >}}
+{{< figure src="/jeffery dahmer.jpeg" title="I also look like jeffery dahmer lol" >}}
 
 
 
