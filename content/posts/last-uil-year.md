@@ -1,6 +1,5 @@
 ---
 title: My last year of UIL.
-date: 2021-12-06T013:46:32-06:00
 tags: [community, school]
 ---
 

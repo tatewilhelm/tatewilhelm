@@ -1,12 +1,11 @@
 ---
 title: Linux is.... cool, I guess.
-date: 2021-11-21T018:12:04-06:00
 tags: [programming, linux]
 ---
 
 This may surprise you, _(with me being an 8th grader who can barely tie his shoes)_, but I use linux as my daily driver.
 
-I love Linux, the openness, open source, libraries taking 10 seconds to install instead of manually moving DLLs. God, it's
+I love Linux, the openness, open source utillities, libraries taking 10 seconds to install instead of manually moving DLLs. God, it's
 so nice to have _**literally everything**_ in my computer available with a couple key presses.
 
 Wanna install an **entire new desktop environment**?

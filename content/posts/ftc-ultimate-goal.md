@@ -1,6 +1,5 @@
 ---
 title: Ultimate Goal was a weird season.
-date: 2021-11-14T013:35:43-06:00
 tags: [community, school, engineering, first-robotics, programming]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: I attempted to make a robot dog, and it was bad.
-date: 2022-01-17T011:09:54-06:00
+draft: true
 tags: [engineering, programming]
 ---
 
