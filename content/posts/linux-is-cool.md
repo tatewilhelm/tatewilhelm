@@ -1,5 +1,5 @@
 ---
-title: Linux... is ok.
+title: Linux is.... cool, I guess.
 date: 2021-11-21T018:12:04-06:00
 tags: [programming, linux]
 ---
@@ -40,19 +40,19 @@ Problem is half of them are funkier than the 80's.
 
 Let's take... [Manjaro](https://www.manjaro.org/) for example.
 
-Manjaro... look, no offense to the maintainers of Manjaro. Making and maintaining a distro is hard. Especially one with 
+[Manjaro](https://www.manjaro.org/)... look, no offense to the maintainers of [Manjaro](https://www.manjaro.org/). Making and maintaining a distro is hard. Especially one with 
 its own software instead of copy-pasting GNOME utilities. Genuinely, I mean no offense to them personally. 
 
-But that doesn't mean Manjaro still isn't bad.
+But that doesn't mean [Manjaro](https://www.manjaro.org/) still isn't bad.
 
-Manjaro, hands down, is the worst distro I've ever used. I installed it on my Ryzen machine and every hour or two, it 
+[Manjaro](https://www.manjaro.org/), hands down, is the worst distro I've ever used. I installed it on my Ryzen machine and every hour or two, it 
 unexplainably froze, then shut down 2 minutes later. It is so distant from Arch that it makes most advanced fixes on the
-Arch User Forms unusable. Manjaro could just be, a set-up arch, with some great utilities or a good package manager. 
+Arch User Forms unusable. [Manjaro](https://www.manjaro.org/) could just be, a set-up arch, with some great utilities or a good package manager. 
 
 **But no!** Let's make an entire different, worse kernel, that ignores the main philosophies of _"Keep it simple"_, and 
-_"Always bleeding edge"_. Also, after all of that, lets say that Manjaro is a beginner-friendly distro.
+_"Always bleeding edge"_. Also, after all of that, lets say that [Manjaro](https://www.manjaro.org/) is a beginner-friendly distro.
 
-Manjaro may be worse than your thumb being cut off, but the last part is a big problem with most distros. Most distros 
+[Manjaro](https://www.manjaro.org/) may be worse than your thumb being cut off, but the last part is a big problem with most distros. Most distros 
 like to say that they are beginner-friendly. When Linux at all is not beginner-friendly. The only distro I can think of 
 that comes even remotely close to being beginner-friendly, is Ubuntu. Even that is an overstatement.
 
@@ -73,7 +73,7 @@ God, I love package managers. Installing libraries used to be terrible. Moving f
 no longer an issue ever since I moved to Linux. Also downloads for weird or obscure pieces of software aren't really an 
 issue anymore.
 
-Also, the stability is nice. While some distros are terribly unstable. _Cough Cough... **Manjaro**_.
+Also, the stability is nice. While some distros are terribly unstable. _Cough Cough... **[Manjaro](https://www.manjaro.org/)**_.
 
 Some are really nice 
 and stable. For example: Fedora, It's been my daily driver for about 4 months. And it hasn't crashed once. The only 
@@ -81,7 +81,7 @@ major issue I've had is nvidia drivers, and those aren't Fedoras fault.
 
 ## Linux is... cool
 Overall my experience with Linux is great. I started with Linux with my Raspberry Pi 3 with Kano OS and Noobs when I was 11.
-I ran Manjaro for 3 months transitioning from Windows. Never running Manjaro, _again_. After that I've been running 
+I ran [Manjaro](https://www.manjaro.org/) for 3 months transitioning from Windows. Never running [Manjaro](https://www.manjaro.org/), _again_. After that I've been running 
 Fedora ever since. 
 
 So yeah Linux is... cool, I guess.

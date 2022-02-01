@@ -3,7 +3,7 @@ title: ResumeEx
 
 ---
 
-> Don't know what this is? [Click Here.](./aboutresumeex)
+> Don't know what this is? [Click Here.](./about)
 
 
 ## About Me
@@ -21,14 +21,14 @@ I have 2 cats. They're cute.
 ***
 
 ## Awards / Accomplishments
-Here's the accomplishments I or my Teams have received over the years.
+Here's the accomplishments I, or teams I have been a part of have received over the years.
 
 |                    Award                    | Description                                     |    Year     |
 |:-------------------------------------------:|-------------------------------------------------|:-----------:|
 | Collins Aerospace Innovate Award, 2nd place | My FTC Teams award for engineering innovation   |    2021     |
 |               Robotics Award                | Top Robotics student (chosen by teacher)        |    2021     |
 |                Science Award                | Top Science student (chosen by teacher)         |    2020     |
-|       All Region Top Band, 4th chair        | 4th chair percussionist inside ATSSB Region 1   |    2022     |
+|     All Region Concert Band, 4th chair      | 4th chair percussionist inside ATSSB Region 1   |    2022     |
 |                Top Ten (#7)                 | Within the top ten students of 7th grade (7/10) |    2021     |
 |         22x UIL A+ Academic Awards          | More Information Below                          | 2016 - 2021 |
 |    District 4H Food Challenge, 3rd place    | My 4H Food Challenge teams award                |    2021     |

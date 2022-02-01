@@ -13,7 +13,7 @@ pygmentsUseClasses=true
   useAvatar = true
   microBlogSection = "posts"
   displayMicroBlog = false
-  displayRecent = true
+  displayRecent = false
   recentMax = 3
   mail = "t8wilhelm@gmail.com"
   phone = "+1-806-217-0186"
@@ -34,7 +34,7 @@ pygmentsUseClasses=true
   [[menu.main]]
     name = "posts"
     pre = "<i class=\"fas fa-keyboard fa-ms\"></i>"
-    url = "/posts/index.html"
+    url = "/posts"
     weight = -8
   [[menu.main]]
     name = "tags"
@@ -44,7 +44,7 @@ pygmentsUseClasses=true
   [[menu.main]]
     name = "github"
     pre = "<i class=\"fab fa-github fa-ms\"></i>"
-    url = "https://github.com/yourgithubusername23434"
+    url = "https://github.com/tatewilhelm"
     weight = -6
   [[menu.main]]
     name = "archive"
