@@ -1,5 +1,5 @@
 ---
-title: Linux is.... cool, I guess.
+title: Linux is... cool, I guess.
 date: 2022-01-19T10:44:02-06:00
 tags: [programming, linux]
 ---
