@@ -1,6 +1,5 @@
 ---
 title: ResumeEx
-
 ---
 
 > Don't know what this is? [Click Here.](./about)
@@ -12,8 +11,8 @@ Hey.
 My names Tate. I do a lot of programming and engineering. I play drums in my school's band, and my favorite subject in
 school is math. 
 
-I come from a small town in North Texas, and attend Canadian Middle School. I'm involved in my schools FTC team, my 
-schools band, and my communities 4H activities.
+I come from a small town in North Texas and attend Canadian Middle School. I'm involved in my school's FTC team, my 
+schools band, and my community's 4H activities.
 
 
 I have 2 cats. They're cute.
@@ -21,7 +20,7 @@ I have 2 cats. They're cute.
 ***
 
 ## Awards / Accomplishments
-Here's the accomplishments I, or teams I have been a part of have received over the years.
+Here is the accomplishments I, or teams I have been a part of have received over the years.
 
 |                    Award                    | Description                                     |    Year     |
 |:-------------------------------------------:|-------------------------------------------------|:-----------:|
@@ -35,8 +34,8 @@ Here's the accomplishments I, or teams I have been a part of have received over 
 ***
 
 ## UIL A+ Academics
-In Texas (my home state), We have a governing body for sports, academic contests, and other school related events. 
-That body is the University Interscholastic League (UIL for short). UIL has academic contests for 2nd through 8th grades,
+In Texas (my home state), We have a governing body for sports, academic contests, and other school-related events. 
+That body is the University Interscholastic League (UIL for short). UIL has academic contests for 2nd through 8th grades
 that consist of multiple events. Such as: Number Sense, Art Smarts, Music Memory, Chess Puzzle, Modern Oratory, Poetry,
 and tons more. A list of events is available [here](https://www.uiltexas.org/aplus/events).
 
@@ -58,7 +57,9 @@ and tons more. A list of events is available [here](https://www.uiltexas.org/apl
 
 ## Articles and sources I've been featured in.
 [This article on my FTC Team in 2021.](https://www.canadianrecord.com/school/canadian-wildcat-robotics-teams-hit-their-competitive-stride-programs-second-year) 
-[PDF of above article]()
+[A PDF scan of the article](/archive/extracurricular/first-tech-challenge/2021/ftc_2021.pdf)
+
+
 [An article on the 4H Robotics program I helped lead.](https://www.canadianrecord.com/school/4-hers-learn-robotics-basics-six-week-long-boot-camp)
-[PDF of above article]()
+[A PDF scan of the article](/archive/extracurricular/4h/robotics/2021/4h_robotics.pdf)
 

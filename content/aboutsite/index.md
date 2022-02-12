@@ -1,5 +1,4 @@
 ---
-layout: page
 title: About This Website
 subtitle: Why did I make this?
 ---

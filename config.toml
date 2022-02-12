@@ -1,58 +1,99 @@
-baseURL = "https://tatewilhelm.pages.dev"
+baseurl = "/"
 languageCode = "en-us"
-title = "tate wilhelm"
-
-copyright = "Copyright © 2021, Tate Wilhelm; all rights reserved."
-theme = "npq-hugo"
-pygmentsUseClasses=true
+theme = "terminal"
+paginate = 5
 
 [params]
-  author = "tate wilhelm"
-  description = "i do stuff"
-  keywords = "programmer, engineer, tinkerer"
-  useAvatar = true
-  microBlogSection = "posts"
-  displayMicroBlog = false
-  displayRecent = false
-  recentMax = 3
-  mail = "t8wilhelm@gmail.com"
-  phone = "+1-806-217-0186"
-  formspreeID = "mnqwnzyb"
+  # dir name of your main content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
 
-#[[menu.main]]
-#name = "contact"
-#pre = "<i class=\"far fa-envelope\"></i>"
-#url = "/contact"
-#weight = -1
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "blue"
 
-[menu]
-  [[menu.main]]
-    name = "home"
-    pre = "<i class=\"fas fa-home fa-sm\"></i>"
-    url = "/"
-    weight = -9
-  [[menu.main]]
-    name = "posts"
-    pre = "<i class=\"fas fa-keyboard fa-ms\"></i>"
-    url = "/posts"
-    weight = -8
-  [[menu.main]]
-    name = "tags"
-    pre = "<i class=\"fas fa-tags fa-ms\"></i>"
-    url = "/tags"
-    weight = -7
-  [[menu.main]]
-    name = "github"
-    pre = "<i class=\"fab fa-github fa-ms\"></i>"
-    url = "https://github.com/tatewilhelm"
-    weight = -6
-  [[menu.main]]
-    name = "archive"
-    pre = "<i class=\"fas fa-archive fa-ms\"></i>"
-    url = "/archive"
-    weight = -4
-  [[menu.main]]
-    name = "contact"
-    pre = "<i class=\"far fa-envelope\"></i>"
-    url = "/contact"
-    weight = -1
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 4
+
+  # show selector to switch language
+  showLanguageSelector = false
+
+  # set theme to full screen width
+  fullWidthTheme = true
+
+  # center theme with default width
+  centerTheme = false
+
+  # if your resource directory contains an image called `cover.(jpg|png|webp)`,
+  # then the file will be used as a cover automatically.
+  # With this option you don't have to put the `cover` param in a front-matter.
+  autoCover = true
+
+  # set post to show the last updated
+  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+  showLastUpdated = false
+
+  # set a custom favicon (default is a `themeColor` square)
+  # favicon = "favicon.ico"
+
+  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
+  # updatedDatePrefix = "Updated"
+
+  # set all headings to their default size (depending on browser settings)
+  # oneHeadingSize = true # default
+
+  # whether to show a page's estimated reading time
+  # readingTime = false # default
+
+  # whether to show a table of contents
+  # can be overridden in a page's front-matter
+  # Toc = false # default
+
+  # set title for the table of contents
+  # can be overridden in a page's front-matter
+  # TocTitle = "Table of Contents" # default
+
+
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = ""
+  site = ""
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Tate Wilhelm"
+    subtitle = "I do stuff"
+    owner = "Tate Wilhelm"
+    keywords = ""
+    copyright = "Copyright 2022; All rights reserved."
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+
+    [languages.en.params.logo]
+      logoText = "Tate Wilhelm"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "aboutme"
+        name = "About Me"
+        url = "/aboutme"
+      [[languages.en.menu.main]]
+        identifier = "aboutsite"
+        name = "About This Site"
+        url = "/aboutsite"
+      [[languages.en.menu.main]]
+        identifier = "resumeex"
+        name = "ResumeEx"
+        url = "/resumeex"
+      [[languages.en.menu.main]]
+        identifier = "archive"
+        name = "Archive"
+        url = "/archive"

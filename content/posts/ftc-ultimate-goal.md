@@ -1,11 +1,12 @@
 ---
 title: Ultimate Goal was a weird season.
+date: 2021-11-12T10:16:40-06:00
 tags: [community, school, engineering, first-robotics, programming]
 ---
 
 Last year, I had my first FTC competition. If you don't know what FTC is, FTC is a robotics program for middle and high schools.
 
-My school offers a robotics elective from grades 7 - 12th, so I thought "Oh that'll be cool instead of keyboarding class, and I've done First Lego League I'll do it." That probably changed my life, but that's a story for another day. 
+My school offers a robotics elective from grades 7 - 12th, so I thought "Oh that'll be cool instead of keyboarding class, and I've done First Lego League I'll do it." That probably changed my life, but that's a story for another day.
 
 ## The challenge
 That years challenge was Ultimate Goal, in which the goal, (no pun intended,) was to shoot rings into a tower. And drop a wobbling pin into certain areas. That was the bare-bones explanation, I highly recommend you watch the [game animation on YouTube.](https://www.youtube.com/watch?v=k2pgPQgHQ28) 
