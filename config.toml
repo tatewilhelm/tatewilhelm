@@ -12,7 +12,7 @@ paginate = 5
   themeColor = "blue"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 4
+  showMenuItems = 5
 
   # show selector to switch language
   showLanguageSelector = false
@@ -81,14 +81,15 @@ paginate = 5
       logoHomeLink = "/"
 
     [languages.en.menu]
+      
+      [[languages.en.menu.main]]
+        identifier = "tags-index"
+        name = "Tags Index"
+        url = "/tags"
       [[languages.en.menu.main]]
         identifier = "aboutme"
         name = "About Me"
         url = "/aboutme"
-      [[languages.en.menu.main]]
-        identifier = "aboutsite"
-        name = "About This Site"
-        url = "/aboutsite"
       [[languages.en.menu.main]]
         identifier = "resumeex"
         name = "ResumeEx"
@@ -97,3 +98,4 @@ paginate = 5
         identifier = "archive"
         name = "Archive"
         url = "/archive"
+      
