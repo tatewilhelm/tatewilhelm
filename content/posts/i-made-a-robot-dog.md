@@ -60,7 +60,7 @@ We had a a [Adafruit Powerboost 1000C](https://www.adafruit.com/product/2465) po
 
 A big lesson I learned was: PLAN EVERYTHING. Maybe not exactly everything to a tee, but you cant just go willy nilly into something expecting it to work. Zeus never worked! I'm still glad I did it, but it was failure!
 
-But maybe thats ok, as I alluded to above, I plan to make another dog. So this was great to just try it out, dip my feet in, and come bacl stronger.
+But maybe thats ok, as I alluded to above, I plan to make another dog. So this was great to just try it out, dip my feet in, and come back stronger.
 
 
 
