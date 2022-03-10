@@ -9,6 +9,6 @@ I am currently a middle schooler, who enjoys programming and robotics. I am the 
 
 I am an active developer and tinkerer, who enjoys spending his time making sometime dumb stuff, sometime cool stuff.
 
-I am the active maintainer behind [FTC Layer](https://github.com/ftc17191/ftclayer),a library for First Tech Challenge programming.  I'm also a
+I am the active maintainer behind [FTC Layer](https://github.com/ftc17191/ftclayer), a library for First Tech Challenge programming.  I'm also a
 contributor to [VBEmu](https://github.com/tatewilhelm/vbemu), a cross platform emulator written in C.
 
