@@ -2,7 +2,7 @@
 title: ResumeEx
 ---
 
-> Don't know what this is? [Click Here.](./about)
+> Don't know what this is? [Click Here.](./aboutresumeex)
 
 
 ## About Me
@@ -56,10 +56,16 @@ and tons more. A list of events is available [here](https://www.uiltexas.org/apl
 ***
 
 ## Articles and sources I've been featured in.
+
+[In 8th grade, I submitted a nomination for my robotics mentor, Mr. Bryant.](https://www.canadianrecord.com/index.php/school/chs-bruce-bryant-among-three-honored-teachers-rise)
+[A PDF scan of the article](/archive/academics/teacher-on-the-rise-article.pdf)
+
 [This article on my FTC Team in 2021.](https://www.canadianrecord.com/school/canadian-wildcat-robotics-teams-hit-their-competitive-stride-programs-second-year) 
 [A PDF scan of the article](/archive/extracurricular/first-tech-challenge/2021/ftc_2021.pdf)
 
 
 [An article on the 4H Robotics program I helped lead.](https://www.canadianrecord.com/school/4-hers-learn-robotics-basics-six-week-long-boot-camp)
 [A PDF scan of the article](/archive/extracurricular/4h/robotics/2021/4h_robotics.pdf)
+
+
 
