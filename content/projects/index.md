@@ -11,6 +11,7 @@ title: "Projects"
 
 [Another collaboration, was when me and another programmer from my school, Logan Gatlin, created a emulator collection, called VBEmu.](https://github.com/tatewilhelm/vbemu)
 
+[BrainFrick was born out of the need for an actually good BrainF*ck interpreter, compared to ones that didnt work on my computer, (for some reason).](https://github.com/tatewilhelm/brainfrick)
 
 ---
 

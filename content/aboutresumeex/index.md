@@ -10,7 +10,6 @@ In object-oriented programming languages, a class with an Ex at the end of it, i
 some extras added. Hence, the Ex at the end of Resume means: Resume with some
 extra bits. So ResumeEx is just a more extended resume, with much more detail. 
 
-I recommend looking at it if you want to know more detail into what I do. But my normal resume is good if you just want 
-to know a condensed version.
+I have two ResumeEx's. One contains most of my academic awards from 7th grade and up, and more so ment for school purposes. The other is for work. They both share inforation, but more detailed information may only be in one.
 
-## [Click here to go back to ResumeEx.](./index.html)
+## [Click here to go back to ResumeEx.](/resumeex)
