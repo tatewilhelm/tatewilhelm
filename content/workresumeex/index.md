@@ -34,16 +34,18 @@ I have 2 cats. They're cute.
 
 ---
 ## Awards and Achievements
-|                    Award                    | Description                                     |    Year     |
-|:-------------------------------------------:|-------------------------------------------------|:-----------:|
-| Collins Aerospace Innovate Award, 2nd place | My FTC Teams award for engineering innovation   |    2021     |
-|               Robotics Award                | Top Robotics student (chosen by teacher)        |    2021     |
-|                Science Award                | Top Science student (chosen by teacher)         |    2020     |
-|     All Region Concert Band, 4th chair      | 4th chair percussionist inside ATSSB Region 1   |    2022     |
-|                Top Ten (#7)                 | Within the top ten students of 7th grade (7/10) |    2021     |
-|         22x UIL A+ Academic Awards          | More Information Below                          | 2016 - 2021 |
-|    District 4H Food Challenge, 3rd place    | My 4H Food Challenge teams award                |    2021     |
-***
+|                    Award                    | Description                                                         |    Year     |
+| :-----------------------------------------: | ------------------------------------------------------------------- | :---------: |
+| Collins Aerospace Innovate Award, 2nd place | My FTC Teams award for engineering innovation                       |    2021     |
+|    Public Speaking, 1st place   | Top Speech given in front of an audience inside 4H Texas District 1 |    2022     |
+|               Robotics Award                | Top Robotics student (chosen by teacher)                            |    2021     |
+|                Science Award                | Top Science student (chosen by teacher)                             |    2020     |
+|     All Region Concert Band, 4th chair      | 4th chair percussionist inside ATSSB Region 1                       |    2022     |
+|                Top Ten (#7)                 | Within the top ten students of 7th grade (7/10)                     |    2021     |
+|         22x UIL A+ Academic Awards          | More Information Below                                              | 2016 - 2021 |
+|    District 4H Food Challenge, 3rd place    | My 4H Food Challenge teams award                                    |    2021     |
+
+---
 
 ## Articles and sources I've been featured in.
 
