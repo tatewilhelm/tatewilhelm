@@ -1,5 +1,5 @@
 ---
-title: Academic ResumeEx
+title: Work ResumeEx
 ---
 
 > Don't know what this is? [Click Here.](/aboutresumeex)

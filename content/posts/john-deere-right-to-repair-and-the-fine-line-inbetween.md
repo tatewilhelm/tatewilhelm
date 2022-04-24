@@ -1,5 +1,5 @@
 ---
-title: John Deere, Right to Repair, and the fine line inbetween.
+title: John Deere, Right to Repair, and the fine line in between.
 date: 2022-04-23T15:38:27-06:00
 tags: [4h, speech]
 ---
