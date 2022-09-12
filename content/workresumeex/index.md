@@ -11,7 +11,7 @@ Hey.
 My names Tate. I do a lot of programming and engineering. I play drums in my school's band, and my favorite subject in
 school is math. 
 
-I come from a small town in North Texas and attend Canadian Middle School. I'm involved in my school's FTC team, my schools band, and my community's 4H activities.
+I come from a small town in North Texas and attend Canadian High School. I'm involved in my school's FTC team, my schools band, and my community's 4H activities.
 
 
 I have 2 cats. They're cute.
@@ -22,7 +22,8 @@ I have 2 cats. They're cute.
 
 | Job           | Description               | Years          |
 |---------------|---------------------------|----------------|
-| Farm Hand     | Summer Job as a Kid       | 2019 -         |
+| Farm Hand     | Summer Job as a Kid       | 2019 - 2022        |
+| Canadian Texas Phone Repair     | Founded and own a Phone Repair service in Canadian, Texas     | 2022 -         |
 
 
 ## Oddjobs / Onetime

@@ -10,7 +10,7 @@ Hey.
 
 My names Tate. I do a lot of programming and engineering. I play drums in my school's band, and my favorite subject in school is math.
 
-I come from a small town in North Texas and attend Canadian Middle School. I'm involved in my school's FTC team, my schools band, and my community's 4H activities.
+I come from a small town in North Texas and attend Canadian High School. I'm involved in my school's FTC team, my schools band, and my community's 4H activities.
 
 I have 2 cats. They're cute.
 
@@ -22,6 +22,7 @@ Here is the accomplishments I, or teams I have been a part of have received over
 
 |                    Award                    | Description                                                         |    Year     |
 | :-----------------------------------------: | ------------------------------------------------------------------- | :---------: |
+| 4H Officer | Officer for my local 4H program                       |    2022     |
 | Collins Aerospace Innovate Award, 2nd place | My FTC Teams award for engineering innovation                       |    2021     |
 |    Public Speaking, 1st place   | Top Speech given in front of an audience inside 4H Texas District 1 |    2022     |
 |               Robotics Award                | Top Robotics student (chosen by teacher)                            |    2021     |
