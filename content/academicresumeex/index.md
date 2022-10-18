@@ -16,6 +16,7 @@ I have 2 cats. They're cute.
 
 ---
 
+
 ## Awards / Accomplishments
 
 Here is the accomplishments I, or teams I have been a part of have received over the years.

@@ -13,6 +13,7 @@ school is math.
 
 I come from a small town in North Texas and attend Canadian High School. I'm involved in my school's FTC team, my schools band, and my community's 4H activities.
 
+I also run a small business called Canadian Texas Phone Repair. I repair phones, tablets, and computers. I also do some web development for my business.    
 
 I have 2 cats. They're cute.
 
