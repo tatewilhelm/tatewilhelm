@@ -2,7 +2,7 @@
 title: "Making a 7 Character GNU Tool."
 date: 2022-07-11T11:37:27-06:00
 draft: false
-tags: ["programming", "cli"]
+tags: [programming, cli]
 ---
 
 In most programming languages, there's a trade off between efficiency, and ease of use. It's a spectrum of the two, for example, C would be on the efficiency side, and Javascript would be on the ease of use side. But both are usable for making large programs, there's only a few languages you can think of so effecient that it is barely usable for the average programmer. You may have in mind x86 assembly, Fortran, or another archaic language. But I present to you: BrainF*ck. (I'm gonna call it BrainFlock, just to keep my website PG.)
